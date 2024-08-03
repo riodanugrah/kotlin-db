@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NewDB</string>
+    <string name="title_activity_note">NoteActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+</resources>
